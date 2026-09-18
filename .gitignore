@@ -3,3 +3,7 @@ dist
 .env
 *.log
 .DS_Store
+
+*.exe
+
+# commit-push-to-github: large files (>5MB) auto-ignored
